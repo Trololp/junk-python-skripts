@@ -7,7 +7,7 @@ bsp_parser - this is parsing BSP map format for GoldSrc engine games such like H
 
 Dragon_fly_save_parser - a parser that dumps save data from unity storage format for Unity game called 'Fly My Dragon' (funtocreate.eu).
 
-SaperDemo - a bot that automates the Saper game for win XP. using third party python library "Minesweepr"
+SaperDemo - a bot that automates the Saper game for win XP. using third party python library "Minesweepr" (https://github.com/mrgriscom/minesweepr)
 
 solver_math - this is solving program i uses to quickly search for answer in android game 'Hard math game'
 
