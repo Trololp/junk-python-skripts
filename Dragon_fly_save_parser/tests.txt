@@ -1,0 +1,17 @@
+XX XX XX XX 05 02 00 CC CC CC CC
+464 -> 509 (1D0 -> 1FD)
+122 -> 202 (7A -> CA)
+1 -> 2
+XXXXXXXX
+'Coin' ^ coint_int -> result
+'Play' ^ plays -> result
+'High ^ Score -> result
+'Tota' ^ Total ?
+
+0 -> 69 d9 d6 08
+77 -> 3c 9e dc bb
+2 -> 96 81 74 1f
+3 -> 77 ac ae 80
+4 -> e2 62 67 fd
+5 -> 35 38 0b 80
+6 -> a0 11 39 a9

@@ -1,0 +1,28 @@
+JlBRRAdVEV1CZhNEBlBRRQNSVQ==
+QmhhcgUCAJN2u/M=
+JldZWBU=
+Q29pbgUCAGnZ1gg=
+LVFXXjVVCkpV
+BWlnaAUCADye3Ls=
+MVdEVwplBldCUw==
+nW50YQUCAGjKNVA=
+NVRRTyVZEFZE
+VmxheQUCAKAROak=
+Nl1TWQhSBEpJdQlfC0s=
+U2VjbwUCAGnZ1gg=
+UnityGraphicsQuality
+int : 1 
+musicValue
+float : 0.08415590971708298 
+quality
+int : 1 
+sfxValue
+float : 0.30000001192092896 
+tutorialComplete
+int : 0 
+unity.cloud_userid
+429f779f5d4d96ad1a33aafbf41d240d
+unity.player_session_elapsed_time
+0
+unity.player_sessionid
+6581345776699815062
