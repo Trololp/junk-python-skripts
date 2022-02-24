@@ -1,16 +1,20 @@
 # junk-python-skripts
-just example skripts you maybe can use for something idk.
+Some python scripts.
 
-Bot - bot for game 'Рейд на монстров' https://vk.com/app6759871?cid=0&queue=1&sid=0
+Bot - bot for vkontakte game 'Рейд на монстров' (https://vk.com/app6759871?cid=0&queue=1&sid=0)
 
-bsp_parser - this is parsing BSP map format for GoldSrc engine games such like Half-life, etc. For finding some strange brushes. (and didnt find any suspect, well at least i tried).
+bsp_parser - this script parsing BSP map format for GoldSrc engine games (Half-life, Counter-Strike 1.6, etc.) To find some strange map structures. (There is nothing found).
 
-Dragon_fly_save_parser - a parser that dumps save data from unity storage format for Unity game called 'Fly My Dragon' (funtocreate.eu).
+Dragon_fly_save_parser - A parser that dump save data from unity storage format for Unity game called 'Fly My Dragon' (funtocreate.eu).
 
-SaperDemo - a bot that automates the Saper game for win XP. using third party python library "Minesweepr" (https://github.com/mrgriscom/minesweepr)
+SaperDemo - A bot that automate the Saper game for win XP. This use third party python library "Minesweepr" (https://github.com/mrgriscom/minesweepr) to solve current state.
 
-solver_math - this is solving program i uses to quickly search for answer in android game 'Hard math game'
+solver_math - This is solving program I used to quickly search for answer in Android game 'Hard math game'.
 
-solver_transmission - solver for android game 'Transmission'.
+solver_transmission - Solver for Android game 'Transmission'.
 
-web_parser - parser that parses site for films and serials to watch. I bored to search myself.
+web_parser - Parser for site with films and serials. Because I am bored to search it myself.
+
+worstcalc.py - A mathematical expression interpreter and solver. (not that worst as I think when made it)
+
+photoshop_prefs_parser - Parsing photoshop (2020) binary MachinePrefs.psp, preformances file.
